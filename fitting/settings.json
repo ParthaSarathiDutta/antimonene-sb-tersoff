@@ -1,0 +1,17 @@
+{
+  "loaded": [],
+  "model": "model.json",
+  "data": {
+    "path": "../data/training",
+    "earlyexit": true,
+    "reports_dir": "reports"
+  },
+  "lmp": {
+    "cmd": "${exe}",
+    "nprocess": 1,
+    "exe": "${LMP_EXE}",
+    "tmp_dir": "tmp",
+    "infile_template": "",
+    "infile_substitute": {}
+  }
+}

@@ -1,0 +1,14 @@
+# Antimonene Tersoff Potential (ML-Tersoff-1_Sb)
+#
+# LAMMPS usage (requires 'metal' units):
+# pair_style tersoff
+# pair_coeff * * ML-Tersoff-1_Sb.tersoff Sb
+#
+# Units: LAMMPS 'metal'
+#
+# Format:
+# i  j  k  m  gamma  lambda3  c  d  cos(theta0)  n  beta
+#              lambda2  B  R  D  lambda1  A
+
+
+Sb Sb Sb 1 1.728566 4.038711 473120.121738 475.785853 -0.064109 1.785647 0.887639 0.481402 19.620091 3.230913 1.187082 3.413096 12848.442002

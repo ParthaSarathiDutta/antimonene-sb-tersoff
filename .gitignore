@@ -1,0 +1,15 @@
+# BLAST run artifacts
+blast.log
+analytics.dat
+mctree.restart
+treestructure.nh
+tmp/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.swp
+.DS_Store
+
+# Generated during fitting
+fitting/reports/
+fitting/tmp/

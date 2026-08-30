@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Antimonene Sb-Sb Tersoff Force Field: Training Data and BLAST Fitting Scripts"
+message: "If you use this software or data, please cite it using these metadata."
+type: software
+authors:
+  - family-names: Dutta
+    given-names: Partha Sarathi
+  - family-names: Koneru
+    given-names: Aditya
+repository-code: "https://github.com/ParthaSarathiDutta/antimonene-sb-tersoff"
+url: "https://github.com/ParthaSarathiDutta/antimonene-sb-tersoff"
+version: v1.0.1
+date-released: 2026-08-30
+keywords:
+  - antimonene
+  - tersoff
+  - force field
+  - BLAST
+  - LAMMPS
+  - antimony
+license: MIT
+abstract: >
+  Open release of DFT training structures, published Sb-Sb Tersoff parameters
+  in LAMMPS format, and BLAST fitting scripts for antimonene force-field development.
