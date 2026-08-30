@@ -38,7 +38,7 @@ MIT (scripts). CC BY 4.0 (data and parameters).
 
 ```bibtex
 @software{antimonene_sb_tersoff,
-  author = {Dutta, Partha Sarathi and Koneru, Aditya},
+  author = {Dutta, Partha Sarathi and Koneru, Aditya et al},
   title = {Antimonene Sb--Sb Tersoff Force Field: Training Data and BLAST Fitting Scripts},
   year = {2026},
   url = {https://github.com/ParthaSarathiDutta/antimonene-sb-tersoff}
